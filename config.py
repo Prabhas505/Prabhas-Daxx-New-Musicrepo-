@@ -33,7 +33,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support and contact information - Provide your own support channels
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/LinkZone_05")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/LinkZoneChat_05")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/LinkZone_05")
 
 # Server limits and configurations - These can be set based on your server configurations
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3000"))
