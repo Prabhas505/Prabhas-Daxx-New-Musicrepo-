@@ -28,7 +28,7 @@ from config import BANNED_USERS, AYUV
 from strings import get_string
 
 ANNIE_VID = [
-    "https://telegra.ph/file/11228553ddb895ae8024b.jpg",
+    "https://graph.org/file/a5c3c6fb09bdb7d3e2153.mp4",
 ]
 STICKERS = [
     "CAACAgUAAx0Cc8ZR3wABB3ODZlLmI5Pu0dVRl_34GtuCQYRI52oAAioNAAKsQjhXd_Tg9rtacT4eBA",
