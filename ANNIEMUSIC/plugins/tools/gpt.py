@@ -16,7 +16,7 @@ openai.api_key = config.GPT_API
 API_URL = "https://sugoi-api.vercel.app/search"
 
 # Command for GPT chat
-@app.on_message(filters.command(["chatgpt", "ai", "ask", "Master"], prefixes=["+", ".", "/", "-", "?", "$", "#", "&"]))
+@app.on_message(filters.command(["Mayra", "Xd", "ask", "sweety"], prefixes=["+", ".", "/", "-", "?", "$", "#", "&"]))
 async def chat_gpt(app, message):
     try:
         # Start typing action
